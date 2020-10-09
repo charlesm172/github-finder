@@ -1,3 +1,12 @@
+# About Project
+This is a project created following Brad Traversy's Udemy course, React front to back.
+
+Searches through GitHub users with the GitHub API, using an API key for verification. Clicking "more" on a profile displays additional information about that user.
+
+## Live Site
+[Netlify Site](https://charlesm172-github-finder.netlify.app/)
+
+# React Information
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
